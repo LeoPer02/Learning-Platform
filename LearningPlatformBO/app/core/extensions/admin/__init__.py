@@ -1,0 +1,1 @@
+from .uneditable_fixed_inline import UneditableFixedInline

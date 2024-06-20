@@ -1,0 +1,1 @@
+from .base_abstract_model import BaseAbstractModel

@@ -1,0 +1,12 @@
+Django == 5.0.4
+djangorestframework == 3.15.1
+djangorestframework-simplejwt == 5.3.1
+drf-standardized-errors == 0.13.0
+drf-spectacular == 0.27.2
+django-cors-headers == 4.3.1
+psycopg2-binary == 2.9.9
+requests == 2.31.0
+django-jazzmin == 2.6.1
+django-modeltranslation == 0.18.12
+googletrans == 4.0.0-rc1  # https://github.com/ssut/py-googletrans/issues/366
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
